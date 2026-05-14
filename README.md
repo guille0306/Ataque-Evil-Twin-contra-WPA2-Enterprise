@@ -42,27 +42,11 @@ Tras completar el proceso, verificamos que la contraseña ha sido descifrada cor
 
 <img width="455" height="377" alt="image" src="https://github.com/user-attachments/assets/b9cf8c0a-315f-49b8-9d35-1bc5424d373a" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Bibliografía:
 https://elbinario.net/2019/06/20/evil-twin-attack-wpa2-enterprise/
+
 https://myhackingnotes.com/wifi/wpa2_enterprise/
+
+Documento:https://docs.google.com/document/d/1GMJurjItby33Hcpw3QbJqJJDr-y1wRFb/edit?usp=sharing&ouid=112448878891607300007&rtpof=true&sd=true
 
 
