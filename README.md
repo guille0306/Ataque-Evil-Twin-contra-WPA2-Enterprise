@@ -1,4 +1,13 @@
-# Ataque-Evil-Twin-contra-WPA2-Enterprise
+# Simulación de ataque Ataque-Evil-Twin-contra-WPA2-Enterprise 
+El fin de esta práctica es simular un ataque de suplantación DNS (DNS Spoofing) contra un entorno corporativo controlado, con el objetivo de:
+
+Demostrar vulnerabilidades comunes en redes locales mal configuradas.
+Entrenar a analistas forenses y personal técnico en la detección y mitigación de ataques de red.
+Analizar técnicas MITM (Man in the Middle) mediante ARP Spoofing y manipulación DNS.
+Generar evidencia controlada para análisis posterior y documentación formal.
+## Prerequisitos
+- OS: Ubuntu
+  - Herramienta: Hostapd
 
 INSTALACIÓN
 
