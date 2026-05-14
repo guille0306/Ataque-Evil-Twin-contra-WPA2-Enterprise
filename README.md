@@ -47,6 +47,7 @@ El fin de esta práctica es simular un ataque Evil Twin contra una red WPA2 Ente
 
 
   Volcamos el hash capturado en el archivo hasht.txt, el cual actúa como el "objetivo" que Hashcat procesará posteriormente. 
+  
   <img width="605" height="37" alt="image" src="https://github.com/user-attachments/assets/0d55188b-458b-4a57-84ea-9416892639bf" />
 
 
