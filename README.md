@@ -57,6 +57,7 @@ El fin de esta práctica es simular un ataque Evil Twin contra una red WPA2 Ente
 
   Procedemos a crackear la contraseña capturada previamente utilizando la herramienta Hashcat. Para ello, Hashcat emplea el archivo pruebas.txt, que contiene una lista de posibles contraseñas, y las compara con el hash      almacenado en hasht.txt.
   Tras completar el proceso, verificamos que la contraseña ha sido descifrada correctamente: “guillermo”. Esto confirma que una de las palabras del diccionario coincidía con el hash obtenido durante el ataque.
+  
   <img width="455" height="377" alt="image" src="https://github.com/user-attachments/assets/b9cf8c0a-315f-49b8-9d35-1bc5424d373a" />
 
 
