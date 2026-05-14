@@ -61,9 +61,6 @@ El fin de esta práctica es simular un ataque Evil Twin contra una red WPA2 Ente
   <img width="455" height="377" alt="image" src="https://github.com/user-attachments/assets/b9cf8c0a-315f-49b8-9d35-1bc5424d373a" />
 
 
-
-
-
   Bibliografía:
   https://elbinario.net/2019/06/20/evil-twin-attack-wpa2-enterprise/
 
