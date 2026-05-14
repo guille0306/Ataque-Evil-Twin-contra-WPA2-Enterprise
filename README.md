@@ -1,10 +1,12 @@
 # Ataque-Evil-Twin-contra-WPA2-Enterprise
 
 INSTALACIÓN
+
 Instalamos hostapd-wpe en kali Linux con el comando “sudo apt install hostapd-wpe”.
 <img width="517" height="497" alt="image" src="https://github.com/user-attachments/assets/f1a7fc11-a8c7-4cbb-abba-2c08b2e58c9f" />
 
 CONFIGURACIÓN
+
 Usamos el comando iwconfig para ver qué interfaces inalámbricas reconoce el sistema. Al ejecutarlo, podemos identificar fácilmente wlan0, interfaz asociada a la tarjeta Wi‑Fi. 
 <img width="592" height="190" alt="image" src="https://github.com/user-attachments/assets/743717b1-54c9-456a-bc91-28bbf7940a3a" />
 
