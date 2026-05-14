@@ -47,6 +47,5 @@ https://elbinario.net/2019/06/20/evil-twin-attack-wpa2-enterprise/
 
 https://myhackingnotes.com/wifi/wpa2_enterprise/
 
-Documento:https://docs.google.com/document/d/1GMJurjItby33Hcpw3QbJqJJDr-y1wRFb/edit?usp=sharing&ouid=112448878891607300007&rtpof=true&sd=true
-
+Documento:
 
